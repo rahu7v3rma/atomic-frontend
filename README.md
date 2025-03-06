@@ -1,4 +1,7 @@
+<img src="https://github.com/user-attachments/assets/531374c8-bebd-4755-aa52-8abdb71a3e59" />
+
 # Atomic Growth dashboard - React Admin & Dashboard Template
+https://www.atomic-growth.com
 
 ## Prerequisites
 
